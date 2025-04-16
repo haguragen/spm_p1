@@ -20,7 +20,7 @@
 | 14   |0                                     |
 ---
 
-![Sprint Burndown Chart](https://github.com/SWEN90016-2025-SM1/T07_G5/blob/main/etc/new_burn_down.png)
+![Sprint Burndown Chart](https://github.com/haguragen/spm_p1/blob/main/output.png)
 
 
 
