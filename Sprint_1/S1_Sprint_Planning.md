@@ -25,8 +25,8 @@ As a PhD student, I want to view tree distribution on an interactive map so that
 ### Sprint Backlog Tasks
 | Task | Assigned To | Estimated Hours |
 |------|------------|----------------|
-| Design the style of the map | Anqi ZHOU | 6 |
-| Use dataset to build the visualization | Xingchen Du | 6 |
+| Design the style of the map | Siyu Gu | 6 |
+| Use dataset to build the visualization | Junwu Shen | 6 |
 | Complete zoom and pan function | Junwu Shen | 2 |
 | Test the map | Siyu GU | 2 |
 
