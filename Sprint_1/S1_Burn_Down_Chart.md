@@ -20,7 +20,7 @@
 | 14   |0                                     |
 ---
 
-![Sprint Burndown Chart](https://github.com/haguragen/spm_p1/blob/main/output.png)
+![Sprint Burndown Chart](https://github.com/haguragen/spm_p1/blob/main/etc/burndown_final.png)
 
 
 
