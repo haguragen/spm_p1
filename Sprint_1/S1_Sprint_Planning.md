@@ -30,7 +30,7 @@ As a PhD student, I want to view tree distribution on an interactive map so that
 | Complete zoom and pan function | Junwu Shen | 2 |
 | Test the map | Siyu GU | 2 |
 
-### User Story 2: 2 Factor authentication
+### User Story 2: 2 Factor authentication（Requirement changed on 15th, April, 2025. Task was allocated into next sprint.)
 
 As a new user, I want to register and log in securely, so that I need a more safe way to login.
 
